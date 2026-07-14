@@ -1,35 +1,21 @@
 # 🤖 AI Chatbot Using Python & Streamlit
 
-An interactive AI Chatbot built using **Python** and **Streamlit** that allows users to communicate with an AI-powered assistant through a simple and user-friendly web interface.
+An interactive AI Chatbot built using Python and Streamlit that allows users to communicate with an AI-powered assistant through a simple web interface.
 
 ## 🚀 Live Demo
 
-Click below to open the chatbot dashboard:
+👉 **[Open AI Chatbot App](https://ai-chatbot-python-dqqfxvhpxpu4mzs6qgn9pi.streamlit.app/)**
 
-👉 **[Open AI Chatbot App](YOUR_STREAMLIT_APP_LINK)**
+## 📸 Application Preview
 
----
-
-## 📌 Project Overview
-
-This project demonstrates the development of an AI chatbot application using Python. The chatbot provides conversational responses through an interactive Streamlit interface.
-
-The application focuses on:
-- Natural language interaction
-- User-friendly chatbot interface
-- Real-time responses
-- Simple AI integration using Python
-
----
+![AI Chatbot Preview](images/chatbot_preview.png)
 
 ## 🛠️ Technologies Used
 
 - Python
 - Streamlit
 - Artificial Intelligence
-- Natural Language Processing (NLP)
-- Generative AI Concepts
-
----
+- Natural Language Processing
+- Generative AI
 
 ## 📂 Repository Structure
