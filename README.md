@@ -8,7 +8,7 @@ An interactive AI Chatbot built using Python and Streamlit that allows users to 
 
 ## 📸 Application Preview
 
-![AI Chatbot Preview](images/chatbot_preview.png)
+![AI Chatbot Preview](chatbot_preview.png)
 
 ## 🛠️ Technologies Used
 
