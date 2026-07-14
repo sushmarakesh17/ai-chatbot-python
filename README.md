@@ -1,82 +1,35 @@
-# 🤖 AI Chatbot Using Python
+# 🤖 AI Chatbot Using Python & Streamlit
+
+An interactive AI Chatbot built using **Python** and **Streamlit** that allows users to communicate with an AI-powered assistant through a simple and user-friendly web interface.
 
 ## 🚀 Live Demo
 
-**🔗 Try the Chatbot Online:**  
-https://YOUR_STREAMLIT_URL.streamlit.app/
+Click below to open the chatbot dashboard:
+
+👉 **[Open AI Chatbot App](YOUR_STREAMLIT_APP_LINK)**
 
 ---
 
 ## 📌 Project Overview
 
-This project is a simple AI Chatbot built using Python and Streamlit. It responds to user queries related to Python, Artificial Intelligence, Machine Learning, Data Science, and common greetings through a rule-based knowledge base. The application provides an interactive web interface and demonstrates the fundamentals of chatbot development.
+This project demonstrates the development of an AI chatbot application using Python. The chatbot provides conversational responses through an interactive Streamlit interface.
+
+The application focuses on:
+- Natural language interaction
+- User-friendly chatbot interface
+- Real-time responses
+- Simple AI integration using Python
 
 ---
 
-## 🖼️ Application Preview
-
-![AI Chatbot](dashboard.png)
-
----
-
-## 🎯 Features
-
-- 💬 Interactive chatbot interface
-- 🐍 Answers Python-related questions
-- 🤖 Responds to AI and Machine Learning queries
-- 📊 Covers basic Data Science concepts
-- 😊 Handles greetings and common conversations
-- 📝 Saves chat history automatically
-- 🌐 Web-based interface using Streamlit
-
----
-
-## 🛠️ Tools & Technologies
+## 🛠️ Technologies Used
 
 - Python
 - Streamlit
-- Datetime
-- File Handling
-- VS Code
+- Artificial Intelligence
+- Natural Language Processing (NLP)
+- Generative AI Concepts
 
 ---
 
-## 📂 Project Structure
-
-```
-AI-Chatbot-Using-Python/
-│
-├── app.py
-├── dashboard.png
-├── requirements.txt
-├── README.md
-├── output/
-│   └── chat_history.txt
-```
-
----
-
-## 💡 How It Works
-
-- Accepts user input through a Streamlit interface.
-- Matches the input against predefined chatbot responses.
-- Displays the appropriate response instantly.
-- Stores every conversation in a chat history file.
-
----
-
-## 📁 Files Included
-
-- app.py
-- requirements.txt
-- README.md
-- dashboard.png
-- output/chat_history.txt
-
----
-
-## 👩‍💻 Author
-
-**Sushma Rakesh**
-
-Power BI | SQL | Python | Machine Learning | Business Analytics | Generative AI
+## 📂 Repository Structure
